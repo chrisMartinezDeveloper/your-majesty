@@ -2,10 +2,30 @@
   "name": "your-majesty",
   "displayName": "Your Majesty",
   "description": "Purple and Gold Color Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "chrisMartinezDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisMartinezDeveloper/your-majesty.git"
+  },
+  "keywords": [
+    "purple",
+    "gold",
+    "your",
+    "majesty",
+    "your majesty",
+    "color",
+    "theme",
+    "color theme",
+    "dark",
+    "dark theme",
+    "chrisMartinezDev",
+    "chrisMartinezDev dark"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
+  "icon": "src/photos/icon.png",
   "categories": [
     "Themes"
   ],
